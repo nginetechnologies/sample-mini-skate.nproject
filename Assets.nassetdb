@@ -2,7 +2,10 @@
     "6c1f8d3c-26a4-41bf-8373-effdaae71b86": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Mini Skate.scene.nasset"
+        "path": "Assets/Mini Skate.scene.nasset",
+        "metadata": {
+            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-0.2456,2.4531,1.6301],\"rotation\":[-29.3818,-0.0,-170.8632]}"
+        }
     },
     "885e58f4-0991-09cf-0437-d5f03954da2b": {
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
@@ -19,9 +22,6 @@
     },
     "guid": "885e58f4-0991-09cf-0437-d5f03954da2b",
     "imported_assets": [
-        "c4336256-b031-4fed-9323-210ac72ca4a5",
-        "c7155bc2-c75e-fdc0-485c-f53e04cea03b",
-        "7680e24f-aec9-f6a9-f9d2-398e5e80f4b7",
         "00589edc-b99a-e9a8-5f2a-89af3f045daa",
         "02e4a6fc-1b1b-d3ce-6e88-cc926c12e89a",
         "034a5ec8-97d4-2c48-0620-74a3675db4b0",
@@ -66,6 +66,7 @@
         "67b4ba48-395a-4b04-16ea-78333e81cbe0",
         "6e20a2d2-74dd-6584-111b-88a1789387b4",
         "70205a21-8145-022e-ecf1-6289e39e5101",
+        "7680e24f-aec9-f6a9-f9d2-398e5e80f4b7",
         "7a40c1fa-c4dd-ec27-f749-66b5043ca06e",
         "81559b18-a0c5-8784-7b60-4da68bbb03b1",
         "8189e7a1-8129-9cad-f71d-e5ae49de3489",
@@ -98,6 +99,8 @@
         "badbed87-8018-6299-e3c1-3f7068f87637",
         "bc46a32c-d60f-5b05-428f-faf14732d973",
         "c02de8a3-e50f-aecb-c107-c254f7ecb73e",
+        "c4336256-b031-4fed-9323-210ac72ca4a5",
+        "c7155bc2-c75e-fdc0-485c-f53e04cea03b",
         "cc222bce-fa4e-bc53-8137-2175def25ad3",
         "cd2d1828-e598-709d-24c1-fdcb03db75da",
         "d02bfe2f-4175-6b6f-5a33-0c957280fc52",
