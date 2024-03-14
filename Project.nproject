@@ -1,7 +1,7 @@
 {
     "name": "Mini Skate",
-    "guid": "f091be59-ec4f-4353-bcaa-2d8126f12080",
-    "database_guid": "885e58f4-0991-09cf-0437-d5f03954da2b",
+    "guid": "29ece199-ed03-4dca-b885-7d17d72157f1",
+    "database_guid": "cff4634d-291a-0da4-685e-fe8513810260",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -13,7 +13,7 @@
     "binary_directory": "bin",
     "library_directory": "lib",
     "thumbnail_guid": "034a5ec8-97d4-2c48-0620-74a3675db4b0",
-    "default_scene": "6c1f8d3c-26a4-41bf-8373-effdaae71b86",
+    "default_scene": "514507fc-a7f6-4216-b450-97e60b2ee97f",
     "source": "Project.nproject",
     "tags": [ "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9" ],
 	"settings": {

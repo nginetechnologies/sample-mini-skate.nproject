@@ -1,5 +1,5 @@
 {
-    "guid": "6c1f8d3c-26a4-41bf-8373-effdaae71b86",
+    "guid": "514507fc-a7f6-4216-b450-97e60b2ee97f",
     "type_version": 1,
     "typeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
     "instanceGuid": "2e7a024e-3f89-9fc3-831f-49eb0a25a861",
@@ -45,7 +45,7 @@
                 ]
             },
             "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
-                "asset": "809b712f-7745-4f36-aee3-20b93c14ce99"
+                "asset": ""
             },
             "data_components": [
                 {
