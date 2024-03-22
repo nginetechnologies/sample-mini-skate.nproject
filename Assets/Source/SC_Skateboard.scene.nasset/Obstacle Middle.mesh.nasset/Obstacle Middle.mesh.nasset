@@ -1,1 +1,75 @@
-{"guid":"1dbe4dca-de08-aa44-c924-16c59b72eaeb","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"835ba41e-c6a8-f7f8-3d58-636f9ddd1f55","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"56234b4e-f76e-d6ac-8a5b-1fea94661456","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Obstacle Middle Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"0c1ba85d-cb5c-9ece-ceea-802d00fd94d5","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Obstacle Middle Grey Light Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"7b4c3d76-6761-ed95-a67f-dd0c90ee1f00","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Obstacle Middle Grey Light"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"7a40c1fa-c4dd-ec27-f749-66b5043ca06e","material_instance":"bc46a32c-d60f-5b05-428f-faf14732d973"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"7a40c1fa-c4dd-ec27-f749-66b5043ca06e"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"c144037b-21f2-39e5-c7c5-a25983c94290","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Obstacle Middle Grey Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"4d44912b-6554-a00b-5c5c-b31587a6da50","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Obstacle Middle Grey"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"ad0c828b-16e5-1d65-1c64-9b709657c075","material_instance":"ab605b82-0e30-446b-6605-bcce8811da00"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"ad0c828b-16e5-1d65-1c64-9b709657c075"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"cf6dc702-86f8-47ea-e8a3-0754688dcd53","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Obstacle Middle Brown Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"52ba8b4e-ede9-2978-a06b-2ed16a78bb42","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Obstacle Middle Brown"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"2a33b47a-7a55-5e7a-e916-dc5ad674e72e","material_instance":"56c238d7-03e6-e326-bd92-22aedf3fd02b"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"2a33b47a-7a55-5e7a-e916-dc5ad674e72e"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"1cf36c83-c140-687f-87b0-9390da0dfd6d","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Obstacle Middle Red Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"586a9123-798e-4355-948d-2b977a8f4fdf","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Obstacle Middle Red"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"ebb4cb7d-2382-39fc-a5f4-758f64c8d63c","material_instance":"70205a21-8145-022e-ecf1-6289e39e5101"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"ebb4cb7d-2382-39fc-a5f4-758f64c8d63c"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"d14cd30e-d567-76f0-ddb0-2e0aebd5df16","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Obstacle Middle White Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"a15f4b7e-7324-2f3a-bdee-4828b3b401b3","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Obstacle Middle White"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"3d43b32b-e49e-b75a-74d0-f9103fe52cbe","material_instance":"62645309-da64-6af2-bc1d-811d5ebabebf"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"3d43b32b-e49e-b75a-74d0-f9103fe52cbe"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"1dbe4dca-de08-aa44-c924-16c59b72eaeb"},"dependencies":["bc46a32c-d60f-5b05-428f-faf14732d973","7a40c1fa-c4dd-ec27-f749-66b5043ca06e","db5dc618-2cfe-44e9-a319-69c503d090e7","ab605b82-0e30-446b-6605-bcce8811da00","ad0c828b-16e5-1d65-1c64-9b709657c075","56c238d7-03e6-e326-bd92-22aedf3fd02b","2a33b47a-7a55-5e7a-e916-dc5ad674e72e","70205a21-8145-022e-ecf1-6289e39e5101","ebb4cb7d-2382-39fc-a5f4-758f64c8d63c","62645309-da64-6af2-bc1d-811d5ebabebf","3d43b32b-e49e-b75a-74d0-f9103fe52cbe"],"thumbnailGuid":"d46c462a-ff49-691a-d9f8-379c0750fd1b"}
+{
+    "guid": "1dbe4dca-de08-aa44-c924-16c59b72eaeb",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "835ba41e-c6a8-f7f8-3d58-636f9ddd1f55",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "56234b4e-f76e-d6ac-8a5b-1fea94661456",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Obstacle Middle Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "eefa6ba6-2c4f-1da2-db9e-aed86fb9e9c8",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Obstacle Middle Mini Skate Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "da010094-9634-7947-49c5-230e95938844",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Obstacle Middle Mini Skate"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "13accbbf-955c-a189-de6b-3d2496073a90",
+                                "material_instance": "0439d729-400c-4bf0-a992-f16cf51aedff"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "13accbbf-955c-a189-de6b-3d2496073a90"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "1dbe4dca-de08-aa44-c924-16c59b72eaeb"
+    },
+    "thumbnailGuid": "d46c462a-ff49-691a-d9f8-379c0750fd1b",
+    "dependencies": [
+        "0439d729-400c-4bf0-a992-f16cf51aedff",
+        "13accbbf-955c-a189-de6b-3d2496073a90",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ]
+}

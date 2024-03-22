@@ -1,1 +1,75 @@
-{"guid":"8d9ae25e-7903-c049-b1ef-03e6fc0024df","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"191a9189-1962-e2ae-87d7-b74d6ed362a7","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"da835124-d0e0-efbd-1a8b-28e5d57aa477","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Half Pipe Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"12b2f1e0-20cb-9cbd-06ee-c499345fa5c4","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Half Pipe Brown Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"4a78dd82-b633-82f0-7793-b6b8998a6ce8","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Half Pipe Brown"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"07c72152-dce1-3df6-c079-d14edbb6fdf2","material_instance":"56c238d7-03e6-e326-bd92-22aedf3fd02b"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"07c72152-dce1-3df6-c079-d14edbb6fdf2"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"42a8d8d5-398b-049b-ec22-03163a77ed68","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Half Pipe Grey Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"a2bc285e-cf5b-0871-b9b6-5bbe50a74a83","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Half Pipe Grey"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"fe2b90d8-ec65-1317-fd8d-efebcb1bac4e","material_instance":"ab605b82-0e30-446b-6605-bcce8811da00"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"fe2b90d8-ec65-1317-fd8d-efebcb1bac4e"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"8d9ae25e-7903-c049-b1ef-03e6fc0024df"},"dependencies":["56c238d7-03e6-e326-bd92-22aedf3fd02b","07c72152-dce1-3df6-c079-d14edbb6fdf2","db5dc618-2cfe-44e9-a319-69c503d090e7","ab605b82-0e30-446b-6605-bcce8811da00","fe2b90d8-ec65-1317-fd8d-efebcb1bac4e"],"thumbnailGuid":"a228c406-4755-d828-a4ca-053ce8d60337"}
+{
+    "guid": "8d9ae25e-7903-c049-b1ef-03e6fc0024df",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "191a9189-1962-e2ae-87d7-b74d6ed362a7",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "da835124-d0e0-efbd-1a8b-28e5d57aa477",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Half Pipe Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "1351bee1-0e0c-2dc9-c84b-c4cc5190a15c",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Half Pipe Mini Skate Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "5ef775ea-21c8-63d7-5366-2fa4e3179474",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Half Pipe Mini Skate"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "272db017-5e70-1211-9a1a-4dc89e715934",
+                                "material_instance": "0439d729-400c-4bf0-a992-f16cf51aedff"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "272db017-5e70-1211-9a1a-4dc89e715934"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "8d9ae25e-7903-c049-b1ef-03e6fc0024df"
+    },
+    "thumbnailGuid": "a228c406-4755-d828-a4ca-053ce8d60337",
+    "dependencies": [
+        "0439d729-400c-4bf0-a992-f16cf51aedff",
+        "272db017-5e70-1211-9a1a-4dc89e715934",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ]
+}

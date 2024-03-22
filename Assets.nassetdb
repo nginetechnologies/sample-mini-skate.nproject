@@ -19,6 +19,15 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Thumbnail/Mini_Skate_Thumb.tex.nasset"
     },
+    "0439d729-400c-4bf0-a992-f16cf51aedff": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Mini Skate.mtli.nasset",
+        "thumbnail": "08074211-62ed-d250-ba03-20b6960b2339",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "1c93f836-406d-478f-3ba5-3ebee008f967"
+        ]
+    },
     "07c72152-dce1-3df6-c079-d14edbb6fdf2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -48,6 +57,18 @@
         ],
         "dependencies": [
             "ab605b82-0e30-446b-6605-bcce8811da00",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "13accbbf-955c-a189-de6b-3d2496073a90": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Skateboard.scene.nasset/Obstacle Middle.mesh.nasset/Obstacle Middle Mini Skate.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0439d729-400c-4bf0-a992-f16cf51aedff",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -101,6 +122,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "1c93f836-406d-478f-3ba5-3ebee008f967": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Textures/T_Mini_Skate_2_D.tex.nasset"
+    },
     "1dbe4dca-de08-aa44-c924-16c59b72eaeb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -149,6 +174,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "272db017-5e70-1211-9a1a-4dc89e715934": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Skateboard.scene.nasset/Half Pipe.mesh.nasset/Half Pipe Mini Skate.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0439d729-400c-4bf0-a992-f16cf51aedff",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "29ece199-ed03-4dca-b885-7d17d72157f1": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
@@ -186,6 +223,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "37e017dd-a09b-e868-4919-73dc268cb078": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Skateboard.scene.nasset/Bowl Corner Inner.mesh.nasset/Bowl Corner Inner Mini Skate.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0439d729-400c-4bf0-a992-f16cf51aedff",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "38caad7d-4ed0-144b-3c7f-46fd3559c22d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Red.mtli.nasset.tex.nasset"
@@ -199,6 +248,18 @@
         ],
         "dependencies": [
             "70205a21-8145-022e-ecf1-6289e39e5101",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "3b49a657-a956-1b10-1707-21c1b358d39d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Skateboard.scene.nasset/Structure Platform.mesh.nasset/Structure Platform Mini Skate.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0439d729-400c-4bf0-a992-f16cf51aedff",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -355,6 +416,30 @@
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
         "path": "Assets/Mini Skate.scene.nasset"
     },
+    "550fbfa9-c68c-b10f-b614-5361b05ee72a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Skateboard.scene.nasset/Steps.mesh.nasset/Steps Mini Skate.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0439d729-400c-4bf0-a992-f16cf51aedff",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "555500e0-f477-88db-1e53-768035704967": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Skateboard.scene.nasset/Structure Wood.mesh.nasset/Structure Wood Mini Skate.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0439d729-400c-4bf0-a992-f16cf51aedff",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "56087ad8-909f-2e49-2016-b17e6fad8ba8": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Skateboard.scene.nasset/Pallet.mesh.nasset/Thumbnails/Pallet.mesh.nasset.tex.nasset"
@@ -500,6 +585,30 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "7776c5ef-ff6a-43b1-0a47-962629694954": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Skateboard.scene.nasset/Pallet.mesh.nasset/Pallet Mini Skate.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0439d729-400c-4bf0-a992-f16cf51aedff",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "78206dfd-a796-1426-fdf3-46e62c01665f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Skateboard.scene.nasset/Rail Low.mesh.nasset/Rail Low Mini Skate.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0439d729-400c-4bf0-a992-f16cf51aedff",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "7a40c1fa-c4dd-ec27-f749-66b5043ca06e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -509,6 +618,18 @@
         ],
         "dependencies": [
             "bc46a32c-d60f-5b05-428f-faf14732d973",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7ce7957e-a577-714a-43d9-880d155cf4d7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Skateboard.scene.nasset/Rail High.mesh.nasset/Rail High Mini Skate.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0439d729-400c-4bf0-a992-f16cf51aedff",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -670,6 +791,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "a8a662bf-092c-daf1-ab2f-c227715ca095": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Skateboard.scene.nasset/Floor Wood.mesh.nasset/Floor Wood Mini Skate.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0439d729-400c-4bf0-a992-f16cf51aedff",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "a914b9a5-6080-9261-544a-bdd57e0dc6f8": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -742,6 +875,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "b39d331a-05b9-5eb6-6dad-ddf09eb76781": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Skateboard.scene.nasset/Floor Concrete.mesh.nasset/Floor Concrete Mini Skate.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0439d729-400c-4bf0-a992-f16cf51aedff",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "b49f9d86-08c5-44a9-4bec-941af466aac8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -795,6 +940,30 @@
         ],
         "dependencies": [
             "ab605b82-0e30-446b-6605-bcce8811da00",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c19b3448-919e-6a72-ae15-b9876b8c59d2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Skateboard.scene.nasset/Obstacle End.mesh.nasset/Obstacle End Mini Skate.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0439d729-400c-4bf0-a992-f16cf51aedff",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c6f94ebb-e0d3-d957-2c57-ad36d992a6cd": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Skateboard.scene.nasset/Bowl Side.mesh.nasset/Bowl Side Mini Skate.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0439d729-400c-4bf0-a992-f16cf51aedff",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -876,6 +1045,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "d3c19857-ecf6-d143-df47-0c70b91332c0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Skateboard.scene.nasset/Bowl Corner Outer.mesh.nasset/Bowl Corner Outer Mini Skate.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0439d729-400c-4bf0-a992-f16cf51aedff",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "d3e3edf8-7d5d-2663-f0cf-bc2c2a03eaa7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -919,6 +1100,34 @@
             "62645309-da64-6af2-bc1d-811d5ebabebf",
             "d0b3a08f-00e5-d991-a426-c7e1f81d1e72"
         ]
+    },
+    "dc17940a-1b2b-087a-06c5-7a4e3aa9454e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Skateboard.scene.nasset/Rail Curve.mesh.nasset/Rail Curve Mini Skate.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0439d729-400c-4bf0-a992-f16cf51aedff",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e26ac6b2-b2a2-e23a-89e2-011736e733ab": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Skateboard.scene.nasset/Rail Slope.mesh.nasset/Rail Slope Mini Skate.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0439d729-400c-4bf0-a992-f16cf51aedff",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e65782b0-cc7e-2182-eba4-7c02afe20c73": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Textures/T_Mini_Skate_D.tex.nasset"
     },
     "e77f94ff-4861-6ca0-8f72-f2b18a3c1e91": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -981,6 +1190,30 @@
         ],
         "dependencies": [
             "70205a21-8145-022e-ecf1-6289e39e5101",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f4d734c8-a95c-ec40-5888-205608bfaf8e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Skateboard.scene.nasset/Obstacle Box.mesh.nasset/Obstacle Box Mini Skate.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0439d729-400c-4bf0-a992-f16cf51aedff",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "fa71173b-e037-9538-6ccc-a3ef3689b20b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Skateboard.scene.nasset/Skateboard.mesh.nasset/Skateboard Mini Skate.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0439d729-400c-4bf0-a992-f16cf51aedff",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },

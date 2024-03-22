@@ -1,1 +1,75 @@
-{"guid":"91e1cd5a-80cb-4ce4-2932-df14461033b3","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"bb82fca9-6f3c-d731-f1e7-6322bf600f82","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"557caa00-c7a9-951e-33ff-b2676b7798fc","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Floor Wood Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"1d33ac85-7037-0835-13b1-caa920797515","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Floor Wood Brown Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"90f817d2-0fc7-91b9-6f02-4fe3dcc87a26","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Floor Wood Brown"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"379ebfd7-ffff-1db4-36cb-1ce13a70582f","material_instance":"56c238d7-03e6-e326-bd92-22aedf3fd02b"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"379ebfd7-ffff-1db4-36cb-1ce13a70582f"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"91e1cd5a-80cb-4ce4-2932-df14461033b3"},"dependencies":["56c238d7-03e6-e326-bd92-22aedf3fd02b","379ebfd7-ffff-1db4-36cb-1ce13a70582f","db5dc618-2cfe-44e9-a319-69c503d090e7"],"thumbnailGuid":"cd2d1828-e598-709d-24c1-fdcb03db75da"}
+{
+    "guid": "91e1cd5a-80cb-4ce4-2932-df14461033b3",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "bb82fca9-6f3c-d731-f1e7-6322bf600f82",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "557caa00-c7a9-951e-33ff-b2676b7798fc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Floor Wood Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "a02c2228-40a9-ae2f-431f-4ad097bdabe0",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Floor Wood Mini Skate Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "9b1a0023-25b0-fb8b-0db7-00debc3ffd64",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Floor Wood Mini Skate"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "a8a662bf-092c-daf1-ab2f-c227715ca095",
+                                "material_instance": "0439d729-400c-4bf0-a992-f16cf51aedff"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "a8a662bf-092c-daf1-ab2f-c227715ca095"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "91e1cd5a-80cb-4ce4-2932-df14461033b3"
+    },
+    "thumbnailGuid": "cd2d1828-e598-709d-24c1-fdcb03db75da",
+    "dependencies": [
+        "0439d729-400c-4bf0-a992-f16cf51aedff",
+        "a8a662bf-092c-daf1-ab2f-c227715ca095",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ]
+}

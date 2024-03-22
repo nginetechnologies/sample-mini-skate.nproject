@@ -1,1 +1,75 @@
-{"guid":"d1e787bb-eb22-8621-3101-64b0a625a7fb","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"2d4fc306-933c-2ccb-78c2-17effcb921d1","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"7aa68744-cd28-ff28-1731-64797cd3f433","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bowl Corner Outer Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"c299a3c2-d430-8c76-8e36-b48490271cc1","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bowl Corner Outer Brown Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"b3a7775d-e146-9b6b-1284-4d30137d8839","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bowl Corner Outer Brown"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"d42ce785-ccdd-227a-4e37-b00c10de8658","material_instance":"56c238d7-03e6-e326-bd92-22aedf3fd02b"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"d42ce785-ccdd-227a-4e37-b00c10de8658"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"d1f10f66-c90d-3b1e-833c-ff3b5ea7f30b","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bowl Corner Outer Red Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"f8621085-2964-cc00-8bac-b16d7c53f591","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bowl Corner Outer Red"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"3fe0379b-9799-ce71-814e-938b59e7aad6","material_instance":"70205a21-8145-022e-ecf1-6289e39e5101"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"3fe0379b-9799-ce71-814e-938b59e7aad6"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"2002a50c-82f5-b61d-9aad-27f7f665aad9","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bowl Corner Outer Grey Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"367e6847-a812-e3e6-8b8c-f505ea186075","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bowl Corner Outer Grey"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"b564dd00-89ca-7e6c-cdb1-c3cc4ccda558","material_instance":"ab605b82-0e30-446b-6605-bcce8811da00"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"b564dd00-89ca-7e6c-cdb1-c3cc4ccda558"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"b5f7be33-e5f4-a49e-9da8-5346d442f03f","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bowl Corner Outer Grey Light Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"c136114d-8892-96c3-d52d-9c4454fe158f","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bowl Corner Outer Grey Light"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"d02bfe2f-4175-6b6f-5a33-0c957280fc52","material_instance":"bc46a32c-d60f-5b05-428f-faf14732d973"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"d02bfe2f-4175-6b6f-5a33-0c957280fc52"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"d1e787bb-eb22-8621-3101-64b0a625a7fb"},"dependencies":["56c238d7-03e6-e326-bd92-22aedf3fd02b","d42ce785-ccdd-227a-4e37-b00c10de8658","db5dc618-2cfe-44e9-a319-69c503d090e7","70205a21-8145-022e-ecf1-6289e39e5101","3fe0379b-9799-ce71-814e-938b59e7aad6","ab605b82-0e30-446b-6605-bcce8811da00","b564dd00-89ca-7e6c-cdb1-c3cc4ccda558","bc46a32c-d60f-5b05-428f-faf14732d973","d02bfe2f-4175-6b6f-5a33-0c957280fc52"],"thumbnailGuid":"9d244594-113f-c42f-fb00-51cc7864ce8c"}
+{
+    "guid": "d1e787bb-eb22-8621-3101-64b0a625a7fb",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "2d4fc306-933c-2ccb-78c2-17effcb921d1",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "7aa68744-cd28-ff28-1731-64797cd3f433",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bowl Corner Outer Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "783570a1-6021-0927-9b4a-ac64fc3415ac",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bowl Corner Outer Mini Skate Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "d129c73b-01f1-6b98-f1b3-b28d97dce1eb",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bowl Corner Outer Mini Skate"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "d3c19857-ecf6-d143-df47-0c70b91332c0",
+                                "material_instance": "0439d729-400c-4bf0-a992-f16cf51aedff"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "d3c19857-ecf6-d143-df47-0c70b91332c0"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "d1e787bb-eb22-8621-3101-64b0a625a7fb"
+    },
+    "thumbnailGuid": "9d244594-113f-c42f-fb00-51cc7864ce8c",
+    "dependencies": [
+        "0439d729-400c-4bf0-a992-f16cf51aedff",
+        "d3c19857-ecf6-d143-df47-0c70b91332c0",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ]
+}
