@@ -2,7 +2,6 @@
     "guid": "514507fc-a7f6-4216-b450-97e60b2ee97f",
     "type_version": 1,
     "typeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-    "instanceGuid": "b099ecd3-bfaf-41aa-9bda-667b26806fd0",
     "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
         "radius": 4096.0
     },
@@ -37,7 +36,6 @@
     "children": [
         {
             "typeGuid": "d2c2c3a5-b813-4ab8-b52f-7986940e5b67",
-            "instanceGuid": "73f7562a-fd62-4d95-9e03-8e82d5b54647",
             "data_components": [
                 {
                     "typeGuid": "b17f5afc-5476-4345-82ae-56ea87607d17"
@@ -60,10 +58,6 @@
                 },
                 {
                     "typeGuid": "b60ddb15-deda-47d5-a53b-7a7289bc8ae3"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "3007bcaa-22bf-42e5-d85a-b0ec8e2678f8"
                 }
             ]
         },
