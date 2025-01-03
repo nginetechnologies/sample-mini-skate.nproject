@@ -107,6 +107,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "260825fb-9c49-4064-8462-c5e3d7ead17d": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Skater Walk.anim.nasset"
+    },
     "261e0dca-8af5-45be-ba34-7f560cc42810": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -194,6 +199,19 @@
             "0439d729-400c-4bf0-a992-f16cf51aedff",
             "f4d734c8-a95c-ec40-5888-205608bfaf8e",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "41dde2a3-1979-4bf6-b337-e49c2dce8cb0": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Player_Scripts/Mini Skater Boy.scene.nasset",
+        "thumbnail": "c10af265-b935-473d-b8e2-2d96a0f873bf",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "7ebcb7cc-ca7c-6244-1566-ae5daa480f02"
         ]
     },
     "46c9935e-2b95-2983-2388-b2f243e3e1d6": {
@@ -498,6 +516,16 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Skateboard.scene.nasset/Obstacle Box.mesh.nasset/Thumbnails/Obstacle Box.mesh.nasset.tex.nasset"
     },
+    "85566cbc-e7e8-4fff-8027-5b19a824fc1d": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Skater Jump Loop.anim.nasset"
+    },
+    "886f80eb-961d-4809-a151-fea61762b131": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Skater Idle.anim.nasset"
+    },
     "8a21090b-5c1d-52ed-ae2f-a9c59e492039": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Skateboard.scene.nasset/Bowl Side.mesh.nasset/Thumbnails/Bowl Side.mesh.nasset.tex.nasset"
@@ -577,6 +605,11 @@
     "a228c406-4755-d828-a4ca-053ce8d60337": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Skateboard.scene.nasset/Half Pipe.mesh.nasset/Thumbnails/Half Pipe.mesh.nasset.tex.nasset"
+    },
+    "a4c9ae99-365c-48b1-b2ca-914c54c82db3": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Skater Run.anim.nasset"
     },
     "a4f8ef54-3181-68c1-c2cf-da9f95c5d74a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -684,9 +717,27 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "babe0910-b145-46d0-93b5-f541aa625e73": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Skater Jump End.anim.nasset"
+    },
     "badbed87-8018-6299-e3c1-3f7068f87637": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Skateboard.scene.nasset/Steps.mesh.nasset/Thumbnails/Steps.mesh.nasset.tex.nasset"
+    },
+    "bf32817a-e995-44c8-96df-4600f3a78dec": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Player_Scripts/Mini Skater Girl.scene.nasset",
+        "thumbnail": "c10af265-b935-473d-b8e2-2d96a0f873bf",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "c0ef37a3-1fe9-a633-bf90-51c2de6ecce5"
+        ]
     },
     "c0db5371-ca19-dfbf-f575-8f028867ad61": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -787,6 +838,11 @@
             "0439d729-400c-4bf0-a992-f16cf51aedff",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "d362591f-443c-47e6-a540-5fd46bf7b031": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Skater Jump Start.anim.nasset"
     },
     "d3c19857-ecf6-d143-df47-0c70b91332c0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",

@@ -1,0 +1,19 @@
+{
+    "source": "A_Skater_Run.fbx",
+    "skeleton": "",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": ""
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "a4c9ae99-365c-48b1-b2ca-914c54c82db3"
+        }
+    ],
+    "guid": "a4c9ae99-365c-48b1-b2ca-914c54c82db3",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        ""
+    ]
+}
